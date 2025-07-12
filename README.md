@@ -1,12 +1,34 @@
-# React + Vite
+# 🛠️ My First React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my first React.js project! This application was built as part of my learning journey into modern frontend development using **React** and **Tailwind CSS**. It includes features like form validation, routing, sidebar navigation, responsive layouts, and user interactions.
 
-Currently, two official plugins are available:
+> ⚠️ **Disclaimer**:  
+> This project is strictly for **educational and personal learning purposes**.  
+> It is **not intended for production** or commercial use.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 What I Learned
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🧱 React component structure
+- 🧭 React Router for navigation
+- 🧪 Form validation using `react-hook-form` and `zod`
+- 🎨 Styling with Tailwind CSS
+- 💡 Lazy loading using `React.lazy` and `Suspense`
+- 📱 Responsive UI with mobile sidebar toggle
+- 🔐 Basic auth flow using mock API
+- 🧰 State management with React hooks (`useState`, `useEffect`, etc.)
+
+---
+
+## 🧰 Tech Stack
+
+- **React**
+- **Tailwind CSS**
+- **React Router**
+- **React Hook Form + Zod**
+- **Axios**
+- **Remix Icons**
+- **Sonner** (for toast notifications)
+
+
